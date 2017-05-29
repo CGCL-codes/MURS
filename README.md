@@ -34,3 +34,6 @@ The same to Apache Spark. You can add some additional configuration in the conf/
 spark.murs.yellow, default: 0.4, the threshold of memory pressure.
 
 spark.murs.samplingInterval, default: 200ms, the interval of sampler for memory pressure.
+
+If you want to know more about MURS, please refer to the ICWS paper:
+Xuanhua Shi,Xiong Zhang,Ligang He,Hai Jin,Zhixiang Ke,Song Wu, "MURS: Mitigating Memory Pressure in Service-oriented Data Processing System", in Proceedings of the 24th IEEE international Conference on Web Services (ICWS), Honolulu, Hawaii, USA, Jun. 25-30, 2017 
